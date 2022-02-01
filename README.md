@@ -2,7 +2,7 @@
 
 ## I'm a recent coding bootcamp grad with a passion for tech
 
-- 🎓 I recently graduated from a great [full stack web/mobile development bootcamp](https://www.nucamp.co/) 🥾🏕️
+- 🎓 Graduated from a great [full stack web/mobile development bootcamp](https://www.nucamp.co/) 🥾🏕️
 - 😋 Lately, I have been tasting some coding challenges at [Frontend Mentor](https://www.frontendmentor.io/profile/DarrickFauvel)
 - 🧠 I am a summa cum laude IT graduate of [University of Massachusetts](https://www.uml.edu/)
 - 🤓 I have experience from several years in web dev & tech support
