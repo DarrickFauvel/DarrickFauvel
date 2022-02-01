@@ -7,6 +7,13 @@
 - 🧠 I am a summa cum laude IT graduate of [University of Massachusetts](https://www.uml.edu/)
 - 🤓 I have experience from several years in web dev & tech support
 
+### Some of my project highlights
+
+- [Petri Paint app](https://github.com/DarrickFauvel/petri-paint) for hackathon challenge (html/css/js)
+- [Tic Tac Toe game](https://github.com/DarrickFauvel/tic-tac-toe-vanilla-js) (html/css/js)
+- [Hangman game](https://github.com/DarrickFauvel/hangman-js) (html/css/js/svg)
+- [Cafe & Takeaway website](https://github.com/DarrickFauvel/cafe-and-takeaway) (html/css/js/bootstrap)
+
 ### You can find me here:
 
 - [Frontend Mentor](https://www.frontendmentor.io/profile/DarrickFauvel)
