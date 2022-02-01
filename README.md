@@ -1,4 +1,4 @@
-### Hi there, I'm Darrick 👋
+## Hi there, I'm Darrick 👋
 
 ## I'm a recent coding bootcamp grad with a passion for tech
 
