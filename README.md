@@ -38,7 +38,7 @@
 </br>
 </br>
 
-### Some of my fave coding instructors: 👍
+### Some of my fave coding mentors:
 
 - [Jonas Schmedtmann](https://codingheroes.io/)
 - [Brad Traversy](https://www.traversymedia.com/)
