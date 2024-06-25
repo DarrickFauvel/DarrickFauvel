@@ -1,12 +1,10 @@
-Hi 👋 My name is Darrick
-========================
+# Hi 👋, I'm Darrick
 
-Software Developer
-------------------
+A passionate software developer from Massachusetts
 
-* 🌍  I'm based in Massachusetts
 * 🖥️  See my portfolio at [darrickdevelops.com](http://darrickdevelops.com)
 * 🧠  I'm learning NextJS framework and shadcn/ui library
+* 💬  Ask me about React, NextJS, Tailwind
 
 ### Skills
 
