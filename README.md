@@ -93,7 +93,7 @@ A passionate software developer from Massachusetts
   &nbsp;
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://github.com/DarrickFauvel/DarrickFauvel/blob/main/images/logos--linux-tux.svg" width="36" height="36" alt="Linux" title="Linux" /></a>
   &nbsp;
-  <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="Apple MacOS" title="Apple MacOS" /></a>
+  <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://github.com/DarrickFauvel/DarrickFauvel/blob/main/images/wpf--macos.svg" width="36" height="36" alt="Apple MacOS" title="Apple MacOS" /></a>
   &nbsp;
 </p>
 
