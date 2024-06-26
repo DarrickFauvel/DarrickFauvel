@@ -62,7 +62,7 @@ A passionate software developer from Massachusetts
 #### Framework
 
 <p>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" title="NextJS" /></a>
+  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://github.com/DarrickFauvel/DarrickFauvel/blob/main/images/devicon--nextjs.svg" width="36" height="36" alt="NextJs" title="NextJS" /></a>
   &nbsp;
 </p>
 
