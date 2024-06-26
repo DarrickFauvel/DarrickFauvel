@@ -89,6 +89,8 @@ A passionate software developer from Massachusetts
 #### Operating System
 
 <p>
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"><img src="https://github.com/DarrickFauvel/DarrickFauvel/blob/main/images/logos--microsoft-windows-icon.svg" width="36" height="36" alt="Microsoft Windows" title="Microsoft Windows" /></a>
+  &nbsp;
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
   &nbsp;
   <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
