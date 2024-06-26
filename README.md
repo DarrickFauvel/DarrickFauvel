@@ -42,7 +42,7 @@ A passionate software developer from Massachusetts
 <p>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS" /></a>
   &nbsp;
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" title="Express" /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/DarrickFauvel/DarrickFauvel/blob/main/images/simple-icons--express.svg" width="36" height="36" alt="Express" title="Express" /></a>
   &nbsp;
 </p>
 
