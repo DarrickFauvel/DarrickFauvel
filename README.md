@@ -42,7 +42,7 @@ A passionate software developer from Massachusetts
 <p>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS" /></a>
   &nbsp;
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/DarrickFauvel/DarrickFauvel/blob/main/images/simple-icons--express.svg" width="36" height="36" alt="Express" title="Express" /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DarrickFauvel/DarrickFauvel/825257c8e105facf8648fa083fd3d301a16830e3/images/simple-icons--express.svg" width="36" height="36" alt="Express" title="Express" /></a>
   &nbsp;
 </p>
 
@@ -62,11 +62,18 @@ A passionate software developer from Massachusetts
 #### Framework
 
 <p>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://github.com/DarrickFauvel/DarrickFauvel/blob/main/images/devicon--nextjs.svg" width="36" height="36" alt="NextJs" title="NextJS" /></a>
+  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DarrickFauvel/DarrickFauvel/825257c8e105facf8648fa083fd3d301a16830e3/images/devicon--nextjs.svg" width="36" height="36" alt="NextJs" title="NextJS" /></a>
+  &nbsp;
+  <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DarrickFauvel/DarrickFauvel/825257c8e105facf8648fa083fd3d301a16830e3/images/devicon--astro.svg" width="36" height="36" alt="Astro" title="Astro" /></a>
   &nbsp;
 </p>
 
 #### Testing
+
+<a href="https://mochajs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DarrickFauvel/DarrickFauvel/825257c8e105facf8648fa083fd3d301a16830e3/images/devicon--mocha.svg" width="36" height="36" alt="Mocha" title="Mocha" /></a>
+&nbsp;
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DarrickFauvel/DarrickFauvel/825257c8e105facf8648fa083fd3d301a16830e3/images/devicon-plain--jest.svg" width="36" height="36" alt="Jest" title="Jest" /></a>
+&nbsp;
 
 #### Software
 
@@ -82,7 +89,7 @@ A passionate software developer from Massachusetts
 #### Embedded System
 
 <p>
-  <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"><img src="https://github.com/DarrickFauvel/DarrickFauvel/blob/main/images/devicon--raspberrypi.svg" width="36" height="36" alt="Raspberry PI" title="Raspberry PI" /></a>
+  <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DarrickFauvel/DarrickFauvel/825257c8e105facf8648fa083fd3d301a16830e3/images/devicon--raspberrypi.svg" width="36" height="36" alt="Raspberry PI" title="Raspberry PI" /></a>
   &nbsp;
   <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" title="Arduino" /></a>
   &nbsp;
@@ -91,11 +98,11 @@ A passionate software developer from Massachusetts
 #### Operating System
 
 <p>
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"><img src="https://github.com/DarrickFauvel/DarrickFauvel/blob/main/images/logos--microsoft-windows-icon.svg" width="36" height="36" alt="Microsoft Windows" title="Microsoft Windows" /></a>
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DarrickFauvel/DarrickFauvel/825257c8e105facf8648fa083fd3d301a16830e3/images/logos--microsoft-windows-icon.svg" width="36" height="36" alt="Microsoft Windows" title="Microsoft Windows" /></a>
   &nbsp;
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://github.com/DarrickFauvel/DarrickFauvel/blob/main/images/logos--linux-tux.svg" width="36" height="36" alt="Linux" title="Linux" /></a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DarrickFauvel/DarrickFauvel/825257c8e105facf8648fa083fd3d301a16830e3/images/logos--linux-tux.svg" width="36" height="36" alt="Linux" title="Linux" /></a>
   &nbsp;
-  <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://github.com/DarrickFauvel/DarrickFauvel/blob/main/images/wpf--macos.svg" width="36" height="36" alt="Apple MacOS" title="Apple MacOS" /></a>
+  <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DarrickFauvel/DarrickFauvel/825257c8e105facf8648fa083fd3d301a16830e3/images/wpf--macos.svg" width="36" height="36" alt="Apple MacOS" title="Apple MacOS" /></a>
   &nbsp;
 </p>
 
