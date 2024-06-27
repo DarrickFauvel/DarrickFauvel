@@ -78,7 +78,7 @@ A passionate software developer from Massachusetts
 #### Software
 
 <p>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" title="VS Code" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DarrickFauvel/DarrickFauvel/29f956f4b624d22b8e1f7404e8bfb7f4d3ab8716/images/devicon--vscode.svg" width="36" height="36" alt="VS Code" title="VS Code" /></a>
   &nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma" /></a>
   &nbsp;
