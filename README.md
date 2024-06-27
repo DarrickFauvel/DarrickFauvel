@@ -132,24 +132,3 @@ A passionate software developer from Massachusetts
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/DarrickFauvel/redtool" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DarrickFauvel&repo=redtool&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/DarrickFauvel/my-city-roller" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DarrickFauvel&repo=my-city-roller&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .container {
-          display: flex;
-          width: 100%;
-          height: 300px;
-          background-color: black;
-          color: white;
-        }
-      </style>
-
-      <div class="container">
-        <h1>Hi there, my name is Darrick 👋</h1>
-      </div>
-    </div>
-
-  </foreignObject>
-</svg>
